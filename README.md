@@ -30,7 +30,7 @@ The project integrated grid-level public-data features such as:
 
 The 2026 Big Data Systems report used an **XGBoost binary classifier** and interpreted the model primarily as a candidate-ranking system.
 
-![Model results](assets/figure-01-model-results.png)
+![Model results](assets/figure-01-model-results.svg)
 
 | Metric | Value |
 |---|---:|
@@ -44,11 +44,11 @@ The relatively low recall shows why the model should not be treated as an automa
 
 ## Spatial prioritization
 
-![Probability map](assets/figure-02-probability-map.jpg)
+![Probability-ranking workflow](assets/figure-02-probability-map.svg)
 
 High-probability unserved grids were examined together with the density of neighboring high-probability cells and their distance from existing DRT zones.
 
-![Candidate-site review](assets/figure-03-candidate-site.jpg)
+![Candidate-site review](assets/figure-03-candidate-site.svg)
 
 The final stage added map / satellite-context review to convert a model ranking into policy-review candidates.
 
@@ -58,8 +58,7 @@ The earlier IE Machine Learning presentation explored the same expansion problem
 
 ## Project outputs
 
-- [`outputs/big-data-systems-report-public.pdf`](outputs/big-data-systems-report-public.pdf) - cleaned public version of the 2026 report; draft notes and student identifiers were removed before publication.
-- [`outputs/machine-learning-presentation-public-excerpt.pdf`](outputs/machine-learning-presentation-public-excerpt.pdf) - curated excerpt from the earlier ML-course presentation.
+- [`outputs/PROJECT_OUTPUTS.md`](outputs/PROJECT_OUTPUTS.md) - source provenance, version notes, public-report cleanup notes, and verified analytical evidence.
 
 ## Repository scope
 
