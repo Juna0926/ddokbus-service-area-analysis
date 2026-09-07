@@ -58,7 +58,8 @@ The earlier IE Machine Learning presentation explored the same expansion problem
 
 ## Project outputs
 
-- [`outputs/PROJECT_OUTPUTS.md`](outputs/PROJECT_OUTPUTS.md) - source provenance, version notes, public-report cleanup notes, and verified analytical evidence.
+- [`outputs/ddokbus-project-public-excerpt.pdf`](outputs/ddokbus-project-public-excerpt.pdf) - concise public-safe technical excerpt covering the final analysis and decision framing.
+- [`outputs/PROJECT_OUTPUTS.md`](outputs/PROJECT_OUTPUTS.md) - source provenance, version notes, cleanup notes, and verified analytical evidence.
 
 ## Repository scope
 
