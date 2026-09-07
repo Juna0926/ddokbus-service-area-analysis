@@ -5,11 +5,15 @@
 - IE Machine Learning course presentation: `Proposal for Expanding the Service Area of Ddok-Bus in Gyeonggi Province`
 - Big Data Systems final report: `경기도 내 똑버스 서비스 입지분석 - PySpark 기반 머신러닝 분류 모델을 활용한 신규 서비스 구역 도출`
 
+## Public file
+
+- [`ddokbus-project-public-excerpt.pdf`](ddokbus-project-public-excerpt.pdf) - concise public-safe technical excerpt summarizing the final model results, probability-ranking interpretation, and spatial review logic.
+
 ## Public-safe evidence included
 
-- `assets/figure-01-model-results.svg` — 2026 XGBoost validation metrics.
-- `assets/figure-02-probability-map.svg` — probability-ranking and spatial-screening workflow.
-- `assets/figure-03-candidate-site.svg` — final multi-criteria candidate-review logic.
+- `assets/figure-01-model-results.svg` - 2026 XGBoost validation metrics.
+- `assets/figure-02-probability-map.svg` - probability-ranking and spatial-screening workflow.
+- `assets/figure-03-candidate-site.svg` - final multi-criteria candidate-review logic.
 
 ## Version note
 
@@ -17,7 +21,7 @@ The earlier IE Machine Learning presentation reported **AUC 0.70349** under an e
 
 ## Public-report cleanup
 
-The working report contained draft comments and student identifiers. A cleaned public copy was prepared separately with those internal drafting notes removed. The repository README and figures use only the cleaned analytical content.
+The working report contained draft comments and student identifiers. The public repository uses a cleaned technical excerpt with those internal drafting notes and identifiers removed.
 
 ## Data note
 
