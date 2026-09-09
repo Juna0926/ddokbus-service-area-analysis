@@ -19,6 +19,12 @@ The portfolio framing is intentionally decision-oriented:
 
 **demographic + infrastructure + existing-service data → machine-learning suitability analysis → candidate DRT service areas**.
 
+## Portfolio-aligned main figure
+
+![DRT service-area expansion analysis](https://raw.githubusercontent.com/Juna0926/Portfolio/main/assets/media/project-drt-detail.webp)
+
+*Representative figure synchronized with the current Portfolio detail page.*
+
 ## Problem
 
 Fixed-route public transportation is not equally effective in all areas, particularly where demand is spatially dispersed or accessibility is limited.
@@ -51,6 +57,8 @@ The project integrated public-data variables including:
 The model output was treated as a **screening and prioritization signal**, not as an automatic deployment rule.
 
 The intended use is to narrow the search space for planners before reviewing road-network feasibility, actual demand, operating cost, fleet availability, and local policy constraints.
+
+## Supporting repository figures
 
 ![Model results](assets/figure-01-model-results.svg)
 
